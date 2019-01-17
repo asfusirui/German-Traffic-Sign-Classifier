@@ -1,0 +1,2 @@
+# German-Traffic-Sign-Classifier
+Made a pipeline on Jupyter Notebook for classifying traffic signs. The neural network was built in Tensorflow achieving a 99% training accuracy, 98.2% validation accuracy and 91.2% test accuracy on the German traffic sign database. Dropout regularization along with image normalization was implemented. The neural network architecture had three layers of convolutional, pooling and fully connected layers each along with ReLUs used for activation.
